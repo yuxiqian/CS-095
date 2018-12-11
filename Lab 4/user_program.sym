@@ -1,0 +1,26 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	BUNCHA                  3004
+//	BUNCHB                  3016
+//	CHAR1                   3006
+//	CHAR2                   301E
+//	DDR                     3040
+//	DSR                     303F
+//	EIGHT                   303A
+//	ENDL                    303E
+//	ENDL2                   302B
+//	ENDLINE                 3013
+//	FOUR                    3038
+//	HASH                    303C
+//	HOUWY                   3003
+//	INTR                    3035
+//	LINE1                   3005
+//	LINE2                   301D
+//	SEVEN                   3039
+//	SPACE1                  300C
+//	SPACE2                  3024
+//	SPACE3                  3017
+//	SPACEC                  303D
+//	STAR                    303B
+//	THREE                   3037
+//	TWO                     3036

@@ -1,0 +1,34 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	AGAIN                   3008
+//	ANTLINE                 306B
+//	ASCIIA                  306C
+//	ASCIIB                  306D
+//	CLEAN                   3023
+//	COMPARE                 3032
+//	DDR                     3063
+//	DEFAULT                 3054
+//	DFTPRM                  3070
+//	DSR                     3062
+//	ENDLINE                 306E
+//	ERROR                   309F
+//	EXIT                    305B
+//	FINAL                   303F
+//	INBUF                   3066
+//	INPUT                   3013
+//	KBDR                    3065
+//	KBSR                    3064
+//	LENGTH                  3069
+//	LINKER                  3067
+//	LOOP                    3009
+//	LOOP2                   305C
+//	LOOP3                   3055
+//	LOOP4                   304E
+//	LOOP5                   302D
+//	NEWLINE                 306A
+//	NEXT                    303D
+//	NORMAL                  3026
+//	PROMPT                  307A
+//	RESULT                  304A
+//	SEARCH                  302A
+//	START                   3068

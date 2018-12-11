@@ -1,0 +1,29 @@
+	.ORIG	x2000
+	ST	R1, SaveR1
+	ST	R2, SaveR2
+	ST	R3, SaveR3
+	ST	R4, SaveR4
+	ST	R5, SaveR5
+	ST	R6, SaveR6
+
+KEYIN	LDI	R1, KBSR
+	BRzp	KEYIN
+	LDI	R0, KBDR
+
+	LD	R1, SaveR1
+	LD	R2, SaveR2
+	LD	R3, SaveR3
+	LD	R4, SaveR4
+	LD	R5, SaveR5
+	LD	R6, SaveR6
+	RET
+
+SaveR1	.FILL	x0000
+SaveR2	.FILL	x0000
+SaveR3	.FILL	x0000
+SaveR4	.FILL	x0000
+SaveR5	.FILL	x0000
+SaveR6	.FILL	x0000
+KBSR	.FILL	xFE00
+KBDR	.FILL	xFE02
+	.END
